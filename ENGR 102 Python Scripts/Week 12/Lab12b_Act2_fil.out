@@ -1,0 +1,10 @@
+Function: x**2
+Interval: a = 0.0 to b = 3.0 
+The area under the curve with right endpoints is 9.000000643730543.
+It took a total of 21 iterations.
+The area under the curve with left endpoints is 8.33625.
+It took a total of 1 iterations.
+The area under the curve with midpoints is 8.994374999999998.
+It took a total of 1 iterations.
+The area under the curve using trapezoidal rule is 8.994374999999998.
+It took a total of 1 iterations.

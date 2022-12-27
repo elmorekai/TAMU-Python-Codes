@@ -1,0 +1,5 @@
+Function: -0.5*x**4 +3*x**3 - 5*x**2 + 2*x + 1
+Interval: a = 1.0 to b = 3.0 
+The area under the curve with right endpoints is 2.4729166667175306.
+It took a total of 5 iterations.
+
